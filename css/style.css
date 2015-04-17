@@ -1,11 +1,50 @@
 h1 {
 	color: #598BFF;
 	font-family: "Open Sans Bold", sans-serif;
-	font-size: 64px;
+	font-size: 48px;
 }
 
 .header p  {
 	color: #4F4D4B;
 	font-family: "Open Sans Regular", sans-serif;
-	font-size: 36px;
+	font-size: 24px;
+}
+
+.button {
+	background-color: #50E3C2;
+	color: #FBFBFB;
+	border-style: none;
+}
+
+.button a {
+	color: #FBFBFB;
+}
+
+#button {
+	padding-left: 0;
+	margin: 0;
+}
+
+#button li {
+	display: inline-block;
+}
+
+.apple {
+	font-size: 3em;
+	padding-left: 0.15em;
+	display: inline;
+}
+
+#button-text {
+	list-style-type: none;
+	padding-left: 1em;
+	padding-right: 0.15em;
+}
+
+#button-text li {
+	display: block;
+}
+
+#app {
+	font-size: 1.7em;
 }
