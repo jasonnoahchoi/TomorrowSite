@@ -30,7 +30,6 @@ h1 {
 
 .button {
 	background-color: #50E3C2;
-	color: #FBFBFB;
 	border-style: none;
 	margin-left: 21em;
 	border-radius: 0.5em;
@@ -38,6 +37,7 @@ h1 {
 
 .button a {
 	color: #FBFBFB;
+	text-decoration: none;
 }
 
 #button {
