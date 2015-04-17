@@ -3,3 +3,9 @@ h1 {
 	font-family: "Open Sans Bold", sans-serif;
 	font-size: 64px;
 }
+
+.header p  {
+	color: #4F4D4B;
+	font-family: "Open Sans Regular", sans-serif;
+	font-size: 36px;
+}
