@@ -33,6 +33,7 @@ h1 {
 	color: #FBFBFB;
 	border-style: none;
 	margin-left: 21em;
+	border-radius: 0.5em;
 }
 
 .button a {
