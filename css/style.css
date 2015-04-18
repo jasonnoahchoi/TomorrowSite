@@ -21,10 +21,27 @@ body {
 
 .screenshot {
 	padding-top: 2em;
+	position: relative;
+	padding-bottom: 35em;
+	padding-right: 25em;
 }
 
 .screenshot img {
 	height: 38em;
+}
+
+#gif {
+	height: 28.65em;
+	padding-top: 4.5em;
+	padding-left: 4.55em;
+}
+
+.image {
+	position: absolute;
+}
+
+.content {
+	position: relative;
 }
 
 h1 {
