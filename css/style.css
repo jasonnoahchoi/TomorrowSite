@@ -55,7 +55,9 @@ h1 {
 }
 
 .header {
-	height: 30em;
+	max-height: 30em;
+	min-height: 10em;
+	/*height: 30em;*/
 }
 
 .header p  {
