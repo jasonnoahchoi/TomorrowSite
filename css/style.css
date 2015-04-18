@@ -1,17 +1,30 @@
-/* 
-html { 
-  background: url('../img/background.png') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
- */
-
 body {
 	font-family: "Open Sans Regular", sans-serif;
 	text-align: center;
 	background-color: #FBFBFB;
+	margin: 0;
+}
+
+.main {
+	list-style-type: none;
+	padding-right: 18em;
+}
+
+.main ul {
+	padding-left: 0;
+	margin: 0;
+}
+
+.main li {
+	display: inline-block;
+}
+
+.screenshot {
+	padding-top: 2em;
+}
+
+.screenshot img {
+	height: 38em;
 }
 
 h1 {
@@ -19,22 +32,23 @@ h1 {
 	font-family: "Open Sans Bold", sans-serif;
 	font-size: 48px;
 	margin-bottom: 0;
-	margin-left: 5em;
-	margin-top: 6em;
+	margin-left: 2em;
+	margin-top: 0;
 }
 
 .header p  {
 	color: #4F4D4B;
 	font-size: 24px;
 	margin-top: 0.5em;
-	margin-bottom: 12em;
-	margin-left: 10em;
+	padding-bottom: 11em;
+	margin-bottom: 0;
+	margin-left: 4em;
 }
 
 .button {
 	background-color: #50E3C2;
 	border-style: none;
-	margin-left: 21em;
+	margin-left: 10em;
 	border-radius: 0.5em;
 }
 
@@ -76,7 +90,7 @@ h1 {
 	list-style-type: none;
 	padding-left: 0;
 	margin-top: 0;
-	margin-left: 14.5em;
+	margin-left: 7.5em;
 }
 
 .footer li {
